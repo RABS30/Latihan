@@ -1,2 +1,3 @@
 Hallo ini text di github
-ini tambahan satu
+menambah garis baru dan menghapus garis atas
+ini garis 3
